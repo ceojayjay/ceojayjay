@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Hiya!
+I'm **jayjay (joey)**. I'm a software developer who does a thing here and there.
 
-<!--
-**ceojayjay/ceojayjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Experience
+- General JS
+- HTML/CSS
+- Discord.js
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceojayjay&count_private=true&show_icons=true&theme=radical&include_all_commits=true)" />
+</a>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceojayjay&theme=radical" alt="ceojayjay" /></p>
+<a href="https://github.com/ceojayjay">
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceojayjay&show_icons=true&locale=en&layout=compact&theme=radical" alt="ceojayjay" /></p>
+ 
+ <br />
